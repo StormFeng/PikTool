@@ -1,0 +1,18 @@
+<config>
+    <plugins>
+        <plugin>tencent</plugin>
+        <!-- 支持的插件可在plugin文件夹中查看，
+        此处配置的插件名称必须与plugin中的插件文件夹名相同 -->
+        <!-- <plugin>wechat</plugin>
+        <plugin>alipay</plugin>
+        <plugin>umengpush</plugin> -->
+    </plugins>
+    <key>
+        <!-- 签名文件必须以key.jks命名 -->
+        <!-- SB了，下个版本会自动识别.jks、.keystore文件 -->
+        <!-- 签名文件别名 -->
+        <alias>qzy</alias>
+        <!-- 签名文件密码 -->
+        <pass>qzykey123</pass>
+    </key>
+</config>

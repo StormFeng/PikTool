@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <plugin name="com.w.plugin.tencent.PikQQUser" type="1"/>
+    <plugin name="com.w.plugin.wechat.PikWechatUser" type="2"/>
+    <plugin name="com.w.plugin.alipay.PikAlipay" type="3"/>
+    <plugin name="com.w.plugin.umeng.PikPush" type="4"/>
+</plugins>
